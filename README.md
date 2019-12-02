@@ -5,8 +5,8 @@
 Medium.com : https://medium.com/@mohlat88/udacity-capstone-project-sparkify-470263836e3c?sk=d684c6d25ec1c5569d075c8cc2a97360
 
 ## Files Contained in this Repo
-Sparkify.ipynb
-Readme Readme.md
+1. Sparkify.ipynb
+2. Readme.md
 
 ## Overview:
 Sparkify is a music app. The log data provided contains some basic information about the user as well as information about a single action. A user can contain many entries. In the data, a part of the user is churned, through the cancellation of the account behavior can be distinguished.
