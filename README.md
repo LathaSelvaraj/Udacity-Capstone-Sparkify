@@ -5,7 +5,7 @@
 Medium.com : https://medium.com/@mohlat88/udacity-capstone-project-sparkify-470263836e3c?sk=d684c6d25ec1c5569d075c8cc2a97360
 
 ## Files Contained in this Repo
-.ipynb
+Sparkify.ipynb
 Readme Readme.md
 
 ## Overview:
